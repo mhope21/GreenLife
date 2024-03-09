@@ -31,4 +31,4 @@ Contributions to GreenLife are welcome! If you have ideas for new features, impr
 
 
 **Contact:**
-If you have any questions, suggestions, or feedback, please contact juddhope@gmai.com. I'd love to hear from you!
+If you have any questions, suggestions, or feedback, please contact juddhope@gmail.com. I'd love to hear from you!
