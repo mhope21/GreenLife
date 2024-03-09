@@ -4,7 +4,7 @@
 GreenLife is a web-based platform designed to inspire and educate individuals about sustainable living practices. Whether you're new to the concept of eco-conscious living or looking to deepen your understanding, GreenLife provides a comprehensive resource to help you make informed choices that benefit both you and the environment. From practical tips on reducing waste to inspiring stories of green heroes, GreenLife empowers users to take meaningful action towards a greener, more sustainable future.
 
 **Project Preview**
-![Screenshot 1](Screenshot 2024-03-09 113608.png)
+![Screenshot 1]()
 ![Screenshot 2](https://example.com/path/to/screenshot2.png)
 ![Screenshot 3]()
 ![Screenshot 3]()
